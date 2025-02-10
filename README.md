@@ -33,4 +33,30 @@ TokyoFrames/Windows/Photos
 
 # Hush
 
-Remake of [Silent Stalker of Level 0](https://skyl1ne0.itch.io/silent-stalker-of-level-0)
+
+
+### [Itch.io Game Page](https://skyl1ne0.itch.io/hush)
+
+### About the Game
+
+Developed Hush, a first-person liminal survival game in Unreal Engine 5, a remake of [Silent Stalker of Level 0](https://skyl1ne0.itch.io/silent-stalker-of-level-0). Focused on gameplay and UI programming, creating an interactive object system for puzzle-solving and integrating microphone detection mechanics to influence in-game interactions. Optimized performance using Level Streaming, improving resource allocation and increasing frame rate stability by 20-30%. Designed Niagara particle systems and volumetric effects, maintaining visual fidelity while optimizing performance through culling, LODs, and pooling techniques.
+
+### Controls
+
+- **WASD** - Movement
+- **Shift** - Sprint
+- **F** - Flashlight
+- **E** - Interact
+- **R** - Repair
+- **Q** - Leave Locker
+- **RMB** - Zoom In/Out
+- **Esc** - Pause Game
+
+### Screenshots
+![hush-one](./images/hush-one.png)
+![hush-two](./images/hush-two.png)
+![hush-three](./images/hush-three.png)
+![hush-four](./images/hush-four.png)
+![hush-five](./images/hush-five.png)
+
+
